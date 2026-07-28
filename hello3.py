@@ -1,3 +1,2 @@
-print("반갑습니다.")
+print("만나서 반갑습니다.")
 s = input("입력")
-print("A")
